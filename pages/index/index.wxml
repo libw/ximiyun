@@ -1,0 +1,23 @@
+<!--index.wxml-->
+<swiper indicator-dots="true" autoplay="true" interval="2000" duration="500" style="height:240px;width:100%">
+  <!-- wx:for方法循环数据列表-->
+  <block wx:for="{{test}}" wx:key="xxx">
+    <swiper-item  bindtap="start">
+      <image src="{{item.url}}" class="slide-image" />
+    </swiper-item>
+  </block>
+</swiper>
+<view class='scheme'>
+  <view class='schemeHeader'>
+    <text class="schemeTitle">
+      行业解决方案 
+    </text>
+  </view>
+  <text class="schemeSpan">
+    多行业解决方案，多半版随心选 
+  </text>
+</view>
+
+<view class='footer'>
+  
+</view>
