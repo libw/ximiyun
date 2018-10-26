@@ -1,0 +1,124 @@
+/* pages/ximiyun/index.wxss */
+
+.banner {
+  display: block;
+}
+
+.moreBanner {
+  width: 100%;
+  height: 390rpx;
+  /* background-color: rgb(117, 72, 72); */
+}
+
+.moreAdvantage {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0 32rpx;
+  position: relative;
+}
+
+.moreAdvantageHeader {
+  position: relative;
+  padding: 0 32rpx;
+  /* padding-top: 32rpx; */
+  margin-top: 32rpx;
+  margin-bottom: 32rpx;
+}
+
+.moreAdvantageHeaderT {
+  display: block;
+  width: 200rpx;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #fff;
+  line-height: 32rpx;
+  position: relative;
+  z-index: 1;
+}
+
+.line {
+  position: absolute;
+  border-bottom: 1px solid rgb(34, 34, 34);
+  width: 90%;
+  margin: 0 auto;
+  top: 16rpx;
+  left: 50%;
+  margin-left: -45%;
+}
+
+.moreAdvantageLi {
+  width: 40%;
+  margin-bottom: 32rpx;
+  margin-top: 20rpx;
+}
+
+.moreAdvantageIcon {
+  width: 40rpx;
+  height: 40rpx;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 8rpx;
+}
+
+.moreAdvantageTitle {
+  display: block;
+  text-align: center;
+  font-size: 22rpx;
+  color: rgb(34, 34, 34);
+  margin-bottom: 8rpx;
+}
+
+.moreAdvantageText {
+  display: block;
+  text-align: center;
+  font-size: 18rpx;
+  color: rgb(34, 34, 34);
+  line-height: 30rpx;
+}
+
+.ximiPhone {
+  width: 346rpx;
+  height: 362rpx;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  margin-left: -179rpx;
+}
+
+.tenet {
+  display: flex;
+  justify-content: space-between;
+  padding:0 70rpx;
+  margin-top: 80rpx;
+  padding-bottom: 40rpx;
+}
+
+.tenetImg {
+  width: 360rpx;
+  height: 360rpx;
+}
+
+.tenetWord {
+  width:200rpx;
+  padding-top: 60rpx;
+}
+
+.tenetTitle {
+  display: block;
+  line-height: 24rpx;
+  font-size: 24rpx;
+  height: 24rpx;
+  color: #000;
+  margin-bottom: 20rpx;
+  text-align: center;
+}
+
+.tenetText {
+  display: block;
+  line-height: 32rpx;
+  font-size: 18rpx;
+  height: 18rpx;
+  color: #000;
+  margin: 0 auto;
+}

@@ -1,0 +1,57 @@
+.banner {
+  display: block;
+}
+
+.aboutBanner {
+  width: 100%;
+  height: 400rpx;
+  /* background-color: rgb(117, 72, 72); */
+}
+
+.contactUs {
+  padding-bottom: 36rpx;
+}
+
+.contactUsTitle {
+  font-size: 32rpx;
+  text-align: center;
+  display: block;
+  line-height: 32rpx;
+  margin-bottom: 20rpx;
+}
+
+.contactUsText {
+  font-size: 28rpx;
+  margin-left: 48rpx;
+  display: block;
+  line-height: 28rpx;
+  /* height: 28rpx; */
+}
+
+.contactUsTextBox {
+  display: flex;
+}
+
+.contactUsIcon {
+  width: 40rpx;
+  height: 40rpx;
+  /* background-color: #f2f2f2; */
+  margin-top: 22rpx;
+  margin-left: 16rpx;
+
+}
+.trademark{
+  border-top: 8px solid #f2f2f2;
+}
+.trademarkImgBox{
+  display: flex;
+  padding: 0 16rpx;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.trademarkImg{
+  display: block;
+  width: 33%;
+  height: 76rpx;
+  /* background-color: #c9c9c9; */
+}

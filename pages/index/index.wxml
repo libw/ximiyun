@@ -1,14 +1,15 @@
 <!--index.wxml-->
-<swiper indicator-dots="true" autoplay="true" interval="2000" duration="500" style="height:240px;width:100%">
+<swiper indicator-dots="true" autoplay="true" interval="2000" duration="500" style="height:400rpx;width:100%">
   <!-- wx:for方法循环数据列表-->
   <block wx:for="{{test}}" wx:key="xxx">
-    <swiper-item  bindtap="start">
+    <swiper-item bindtap="start">
       <image src="{{item.url}}" class="slide-image" />
     </swiper-item>
   </block>
 </swiper>
 <view class='scheme'>
   <view class='schemeHeader'>
+    <view class='line'></view>
     <text class="schemeTitle">
       行业解决方案 
     </text>
@@ -16,8 +17,41 @@
   <text class="schemeSpan">
     多行业解决方案，多半版随心选 
   </text>
+  <view class='schemeContent'>
+    <block wx:for="{{content}}" wx:key="xxx">
+      <view class='schemeImageBox'>
+        <image src="{{item.url}}" class="schemeImage" />
+      </view>
+
+    </block>
+  </view>
+</view>
+<view class='advantage'>
+  <view class='schemeHeader'>
+    <view class='line1'></view>
+    <text class="schemeTitle1">
+      西米云小程序优势 
+    </text>
+  </view>
+  <text class="schemeSpan">
+    多模板，全营销，助力商家转型新零售 
+  </text>
+  <view class='advantageContent'>
+    <block wx:for="{{advantage}}" wx:key="xxx">
+      <view class='advantageContentPart'>
+        <view class='advantageContentPartO'>
+          <image src='{{item.url}}' class='advantageImg' />
+          <text class='advantageText'>
+          {{item.text}}
+        </text>
+
+        </view>
+
+      </view>
+    </block>
+  </view>
 </view>
 
 <view class='footer'>
-  
+
 </view>

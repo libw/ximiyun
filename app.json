@@ -1,12 +1,44 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/more/more",
+    "pages/logs/logs",
+    "pages/about/about",
+    "pages/ximiyun/index",
+    "pages/lakala/index"
+    
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "color": "#9b9b9b",
+    "selectedColor": "#000000",
+    "borderStyle": "white",
+    "backgroundColor": "#fafafa",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "resources/images/home.png",
+        "selectedIconPath": "resources/images/homeA.png"
+      },
+      {
+        "text": "更多产品",
+        "pagePath": "pages/more/more",
+        "iconPath": "resources/images/more.png",
+        "selectedIconPath": "resources/images/moreA.png"
+      },
+      {
+        "text":"关于我们",
+        "pagePath": "pages/about/about",
+        "iconPath": "resources/images/about.png",
+        "selectedIconPath": "resources/images/aboutA.png"
+
+      }
+    ]
   }
 }

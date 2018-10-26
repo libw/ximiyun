@@ -1,23 +1,143 @@
 /**index.wxss**/
+
 .userinfo {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.slide-image{
+
+.slide-image {
   width: 100%;
+  height: 400rpx;
 }
-.scheme{
+
+.scheme {
   display: block;
+  padding-bottom: 12rpx;
 }
-.schemeTitle{
+
+.schemeTitle {
   display: block;
   text-align: center;
-  font-size: 14px;
+  font-size: 28rpx;
+  width: 30%;
+  line-height: 28rpx;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+  z-index: 1;
 }
-.schemeSpan{
+
+.schemeTitle1 {
   display: block;
   text-align: center;
-  font-size: 12px;
-  margin:0;
+  font-size: 28rpx;
+  width: 40%;
+  line-height: 28rpx;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+  z-index: 1;
+}
+
+.schemeHeader {
+  position: relative;
+}
+
+.line {
+  border-bottom: 1px solid #000;
+  width: 50%;
+  margin-left: 25%;
+  position: absolute;
+  bottom: 16rpx;
+}
+
+.line1 {
+  border-bottom: 1px solid #000;
+  width: 60%;
+  margin-left: 20%;
+  position: absolute;
+  bottom: 16rpx;
+}
+
+.schemeSpan {
+  display: block;
+  text-align: center;
+  font-size: 24rpx;
+  margin-bottom: 20rpx;
+}
+
+.schemeContent {
+  padding: 0 12rpx;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.schemeImageBox {
+  box-sizing: border-box;
+  display: block;
+  width: 49%;
+  position: relative;
+  /* width:30%; */
+  padding-bottom: 49%;
+  /* height:0px; */
+  margin-bottom: 16rpx;
+}
+
+.schemeImage {
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+/* .schemeImage::before {
+  content: "";
+  padding-top: 100%;
+  vertical-align: middle;
+  
+  display: block;
+} */
+
+.advantage {
+  border-top: 8px solid #f2f2f2;
+}
+
+.advantageContent {
+  padding: 0 16rpx;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.advantageContentPart {
+  width: 30%;
+  box-sizing: border-box;
+  padding: 8rpx;
+  /* background-color: #ccc; *//* border: 1px solid #000; */
+  margin-bottom: 12rpx;
+}
+
+.advantageContentPart::before {
+  content: "";
+  display: inline-block;
+  padding-bottom: 22%;
+}
+
+.advantageImg {
+  display: block;
+  margin: 0 auto;
+  background: #f2f2f2;
+  width: 80%;
+  height: 140rpx;
+}
+
+.advantageText {
+  font-size: 28rpx;
+  display: block;
+  text-align: center;
 }

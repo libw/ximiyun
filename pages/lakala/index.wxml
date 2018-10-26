@@ -1,0 +1,63 @@
+<swiper class='banner' style="height:484rpx;width:100%">
+  <block wx:for='{{moreBanner}}' wx:key='xxx'>
+    <swiper-item>
+      <image src='{{item.url}}' class='moreBanner' />
+    </swiper-item>
+  </block>
+</swiper>
+<view class='advantage'>
+  <view class='advantageContent'>
+    <block wx:for="{{advantage}}" wx:key="xxx">
+      <view class='advantageContentPart'>
+        <view class='advantageContentPartO'>
+          <view class='advantageImgBox'>
+            <image src='{{item.url}}' class='advantageImg' />
+          </view>
+          <text class='advantageText'>{{item.text}}</text>
+        </view>
+      </view>
+    </block>
+  </view>
+</view>
+<view class='productList'>
+  <block wx:for='{{lakalaContent}}' wx:key='xxx'>
+    <block wx:if="{{item.position=='left'}}">
+      <view class='productBox' style='background:{{item.backgroundColor}};color:{{item.color}}'>
+        <image src='{{item.imgUrl}}' class='productImg' />
+        <view class='productWord' style='width:{{item.width}}'>
+          <text class='productTitle'>{{item.title}}</text>
+          <text class='productText'>{{item.content}}</text>
+          <view class='productIconUl'>
+            <block wx:for='{{item.icon}}' wx:key='xxx'>
+              <view class='productIconLi'>
+                <view class='productIconBox'>
+                  <image src='{{item.iconUrl}}' class='productIcon' />
+                </view>
+                <text class='productIconText'>{{item.iconText}}</text>
+              </view>
+            </block>
+          </view>
+        </view>
+      </view>
+    </block>
+    <block wx:else>
+      <view class='productBox' style='background:{{item.backgroundColor}};color:{{item.color}}'>
+        <view class='productWord'>
+          <text class='productTitle'>{{item.title}}</text>
+          <text class='productText'>{{item.content}}</text>
+          <view class='productIconUl'>
+            <block wx:for='{{item.icon}}' wx:key='xxx'>
+              <view class='productIconLi'>
+                <view class='productIconBox'>
+                  <image src='{{item.iconUrl}}' class='productIcon' />
+                </view>
+                <text class='productIconText'>{{item.iconText}}</text>
+              </view>
+            </block>
+          </view>
+        </view>
+         <image src='{{item.imgUrl}}' class='productImg' />
+      </view>
+    </block>
+  </block>
+</view>

@@ -1,0 +1,47 @@
+<swiper class='banner' style='height:400rpx;width:100%'>
+  <block wx:for='{{aboutBanner}}' wx:key='xxx'>
+    <swiper-item>
+      <image src='{{item.imgUrl}}' class='aboutBanner' />
+    </swiper-item>
+  </block>
+</swiper>
+<view class='contactUs'>
+  <text class='contactUsTitle'>
+    联系我们
+  </text>
+  <view class='contactUsTextBox'>
+    <text class='contactUsText' bindtap='callPhone'>
+      电话：{{about[0].tel}}
+    </text>
+    <image src='{{about[0].telIcon}}' class='contactUsIcon' />
+  </view>
+  <!-- <text class='contactUsText'>
+    官网：{{about[0].indexUrl}}
+  </text> -->
+  <view class='contactUsTextBox' bindtap='seeMap'>
+    <text class='contactUsText'>
+      地址：{{about[0].address}}
+    </text>
+    <image src='{{about[0].addressIcon}}' class='contactUsIcon' />
+  </view>
+</view>
+<!-- <view class='trademark'>
+  <text class='contactUsTitle'>
+      合作品牌
+  </text>
+  <view class='trademarkImgBox'>
+    <block wx:for='{{trademark}}'>
+      <image src="../../resources/images/eg.png" class='trademarkImg'/>
+    </block>
+  </view>
+</view> -->
+<view class='trademark'>
+  <text class='contactUsTitle'>
+      生态合作伙伴
+  </text>
+  <view class='trademarkImgBox'>
+    <block wx:for='{{partner}}' wx:key='xxx'>
+      <image src="{{item.imgUrl}}" class='trademarkImg'/>
+    </block>
+  </view>
+</view>
