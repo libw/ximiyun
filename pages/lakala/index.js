@@ -51,33 +51,48 @@ Page({
       }],
       position: 'right',
       backgroundColor: '#fff',
-        color: '#000',
-        width: '58%'
+      color: '#000',
+      width: '58%'
+    }, {
+      imgUrl: '../../resources/images/lakalaMPos.png',
+      title: '手机收款宝',
+      content: '通过蓝牙配合相关的客户端，实现与Android和IOS智能手机进行通讯，为使用者提供收款、转账、等多项金融服务。',
+      icon: [{
+        iconUrl: '../../resources/images/lakalajygl.png',
+        iconText: '交易管理'
       }, {
-        imgUrl: '../../resources/images/lakalaMPos.png',
-        title: '手机收款宝',
-        content: '通过蓝牙配合相关的客户端，实现与Android和IOS智能手机进行通讯，为使用者提供收款、转账、等多项金融服务。',
-        icon: [{
-          iconUrl: '../../resources/images/lakalajygl.png',
-          iconText: '交易管理'
-        }, {
-          iconUrl: '../../resources/images/lakalajscx.png',
-          iconText: '即使撤销'
-        }, {
-          iconUrl: '../../resources/images/lakalasslc.png',
-          iconText: '实施理财'
-          }, {
-            iconUrl: '../../resources/images/lakalasjyh.png',
-            iconText: '手机银行'
-          }, {
-            iconUrl: '../../resources/images/lakalaydsk.png',
-            iconText: '移动收款'
-          }],
-        position: 'left',
-        backgroundColor: 'rgb(126, 206, 244)',
-        color: '#fff',
-        width:'58%'
-      }, ]
+        iconUrl: '../../resources/images/lakalajscx.png',
+        iconText: '即使撤销'
+      }, {
+        iconUrl: '../../resources/images/lakalasslc.png',
+        iconText: '实施理财'
+      }, {
+        iconUrl: '../../resources/images/lakalasjyh.png',
+        iconText: '手机银行'
+      }, {
+        iconUrl: '../../resources/images/lakalaydsk.png',
+        iconText: '移动收款'
+      }],
+      position: 'left',
+      backgroundColor: 'rgb(126, 206, 244)',
+      color: '#fff',
+      width: '58%'
+    }, {
+      imgUrl: '../../resources/images/lakalaPosQ.png',
+      title: '超级收款宝Q50',
+      content: '2.4寸真彩LED主屏+六位LED客显屏， 让交易双方对金额一目了然， 10 个数字键 + 9 大功能键， 单手就能操作完成。',
+      icon: [{
+        iconUrl: '../../resources/images/tu2.png',
+        iconText: '完善的方案'
+      }, {
+        iconUrl: '../../resources/images/tu3.png',
+        iconText: '独立完成收款'
+      }],
+      position: 'right',
+      backgroundColor: '#fff',
+      color: '#000',
+      width: '58%'
+    }, ]
   },
 
   /**
