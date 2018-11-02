@@ -14,7 +14,7 @@ Page({
         'contentPart2': '新零售方案提供者',
         'contentPart3': '让世上没有难做的生意',
         'url': '../../resources/images/yun.png',
-        'id':'lakala'
+      'id':'ximiyun'
       },
       {
         'title': '拉卡拉',
@@ -23,7 +23,7 @@ Page({
         'contentPart2': '全支付，全受理',
         'contentPart3': '超越支付，无限可能',
         'url': '../../resources/images/ya.png',
-        'id': 'ximiyun'
+        'id': 'lakala'
       }
       // ,
       // {
