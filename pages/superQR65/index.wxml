@@ -1,0 +1,32 @@
+<swiper class='banner' style="height:445rpx;width:100%">
+  <block wx:for='{{moreBanner}}' wx:key='xxx'>
+    <swiper-item>
+      <image src='{{item.url}}' class='moreBanner' />
+    </swiper-item>
+  </block>
+</swiper>
+<view class='product-part1'>
+  <image src='../../resources/images/superQR65/superQR65Product1.png' class='product-part1-img'/>
+  <view class='product-part1-box'>
+    <text class='product-part1-title'>POS型外观设计</text>
+    <text class='product-part1-text'>不仅符合商户收款\n惯，更符合顾客付款认知</text>
+  </view>
+</view>
+<view class='product-part2'>
+  
+  <view class='product-part2-box'>
+    <text class='product-part1-title'>采用人体工学设计</text>
+    <text class='product-part1-text'>机身轮廓完美贴合手\n部，频繁操作无酸胀感</text>
+  </view>
+  <image src='../../resources/images/superQR65/superQR65Product2.png' class='product-part2-img'/>
+</view>
+<view class='product-part1'>
+  <image src='../../resources/images/superQR65/superQR65Product3.png' class='product-part3-img'/>
+  <view class='product-part3-box'>
+    <text class='product-part1-title'>全能扫码，一台机子全搞定</text>
+    <text class='product-part1-text'>微信、支付宝、银联钱包等付款\n二维码全能受理\n更多账户二维码即将陆续支持</text>
+  </view>
+</view>
+<view class='product-part4'>
+  <image src='../../resources/images/superQR65/superQR65Product4.png' class='product-part4-img'/>
+</view>

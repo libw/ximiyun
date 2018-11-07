@@ -35,7 +35,7 @@ Page({
       backgroundColor: 'rgb(126, 206, 244)',
       color: '#fff',
       width: '44%',
-      url: '/pages/smart/index'
+      url: 'smart'
     }, {
       imgUrl: '../../resources/images/lakalaPos1.png',
       title: '超级收款宝QR65',
@@ -54,7 +54,7 @@ Page({
       backgroundColor: '#fff',
       color: '#000',
       width: '58%',
-        url: '/pages/superQR65/index'
+      url: 'superQR65'
     }, {
       imgUrl: '../../resources/images/lakalaMPos.png',
       title: '手机收款宝',
@@ -79,7 +79,7 @@ Page({
       backgroundColor: 'rgb(126, 206, 244)',
       color: '#fff',
       width: '58%',
-        url: '/pages/cellphone/index'
+      url: 'cellphone'
     }, {
       imgUrl: '../../resources/images/lakalaPosQ.png',
       title: '超级收款宝Q50',
@@ -95,7 +95,7 @@ Page({
       backgroundColor: '#fff',
       color: '#000',
       width: '58%',
-      url: '/pages/superQ50/index'
+      url: 'superQ50'
     }, ]
   },
 

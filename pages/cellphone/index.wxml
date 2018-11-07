@@ -1,0 +1,34 @@
+<swiper class='banner' style="height:400rpx;width:100%">
+  <block wx:for='{{moreBanner}}' wx:key='xxx'>
+    <swiper-item>
+      <image src='{{item.url}}' class='moreBanner' />
+    </swiper-item>
+  </block>
+</swiper>
+<view class='product-part1'>
+  
+  <view class='product-part1-box'>
+    <text class='product-part1-title'>移动收款 有卡即付</text>
+    <text class='product-part1-text'>收款账户自主设定，支持个人储蓄账户\n支持带银联标识的借记卡，货记卡</text>
+  </view>
+  <image src='../../resources/images/cellphone/cellphonePart1.png' class='product-part1-img'/>
+</view>
+<view class='product-part2'>
+  <image src='../../resources/images/cellphone/cellphonePart2.png' class='product-part2-img'/>
+  <view class='product-part2-box'>
+    <text class='product-part1-title'>交易明细一目了然</text>
+    <text class='product-part1-text'>交易明细实时查询，随时对账\n周末节假日都结算，365天每天到账</text>
+  </view>
+  
+</view>
+<view class='product-part1'>
+ 
+  <view class='product-part3-box'>
+    <text class='product-part1-title'>费率标准透明 借贷统一规范</text>
+    <text class='product-part1-text'>自然日结算次日到账：借记卡0.5%\n20元封顶：贷记卡0.68%，无封顶\n如需交易当天到账，则每笔提款仅收\n3元手续费</text>
+  </view>
+   <image src='../../resources/images/cellphone/cellphonePart3.png' class='product-part3-img'/>
+</view>
+<view class='product-part4'>
+  <image src='../../resources/images/cellphone/cellphonePart4.png' class='product-part4-img'/>
+</view>

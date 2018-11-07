@@ -1,0 +1,35 @@
+<view class='banner'>
+  <image src='../../resources/images/smart/lakalaLogo.png' class='logo' />
+  <text class='lakala-title'>拉卡拉智能POS</text>
+  <text class='lakala-text'>智慧店铺从此开启</text>
+  <image src='../../resources/images/smart/lakalaHeaderImg.png' class='lakala-header-image' />
+</view>
+<view class='lakala-part1'>
+  <image src='../../resources/images/smart/lakalaPart1.png' class='lakala-part1-img' />
+</view>
+<view class='lakala-part2'>
+  <view class='lakala-part2-word-box'>
+    <view class='lakala-part2-text-box'>
+      <image src='../../resources/images/smart/lakalaPingmu.png' class='lakala-part2-font-img'/>
+      <view class='lakala-part2-font-box'>
+        <text class='lakala-part2-font-title'>超大屏幕让你触发晶彩</text>
+        <text class='lakala-part2-font-text'>5英寸IPS液晶显示屏，一切如你所见。</text>
+      </view>
+    </view>
+    <view class='lakala-part2-text-box'>
+      <image src='../../resources/images/smart/lakalaNeicun.png' class='lakala-part2-font-img'/>
+      <view class='lakala-part2-font-box'>
+        <text class='lakala-part2-font-title'>内存+扩容，操作更流畅</text>
+        <text class='lakala-part2-font-text'>高性能安全处理器，1G运行内存，4G内存，最高可拓展到32G内存。</text>
+      </view>
+    </view>
+
+  </view>
+  <image src='../../resources/images/smart/lakalaPart2Img.png' class='lakala-part2-img' />
+</view>
+<view class='lakala-part3'>
+  <image src='../../resources/images/smart/lakalaPart3Img.png' class='lakala-part3-img' />
+</view>
+<view class='lakala-part4'>
+  <image src='../../resources/images/smart/lakalaPart4Img.png' class='lakala-part4-img' />
+</view>

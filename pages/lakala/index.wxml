@@ -21,7 +21,8 @@
 </view>
 <view class='productList'>
   <block wx:for='{{lakalaContent}}' wx:key='xxx'>
-    <block wx:if="{{item.position=='left'}}">
+  <navigator url="{{item.url}}">
+  <block wx:if="{{item.position=='left'}}">
       <view class='productBox' style='background:{{item.backgroundColor}};color:{{item.color}}'>
         <image src='{{item.imgUrl}}' class='productImg' />
         <view class='productWord' style='width:{{item.width}}'>
@@ -59,5 +60,7 @@
          <image src='{{item.imgUrl}}' class='productImg' />
       </view>
     </block>
+  </navigator>
+    
   </block>
 </view>
