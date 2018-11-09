@@ -4,7 +4,10 @@ Page({
    * 页面的初始数据
    */
   data: {
-
+    moreBanner: [{
+      'url': '../../resources/images/superQR65/superQR65Banner.png'
+    }],
+    
   },
 
   /**
@@ -61,5 +64,12 @@ Page({
    */
   onShareAppMessage: function() {
 
+  },
+  //点击跳转 
+  navTo: function(e) {
+    console.log(e)
+    wx.navigateTo({
+      url: "/pages/" + e.currentTarget.dataset.id + "/index"
+    })
   }
 })

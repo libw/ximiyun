@@ -1,65 +1,126 @@
-.banner {
+.part1{
+  box-sizing: border-box;
+}
+.part1-img {
+  width: 100%;
+  height: 692rpx;
+}
+.part2-img {
+  width: 100%;
+  height: 557rpx;
+  position: absolute;
+  top:0;
+  left: 0;
+}
+.part3-img {
+  width: 100%;
+  height: 503rpx;
   display: block;
 }
-
-.moreBanner {
+.part4-img {
   width: 100%;
-  height: 445rpx;
-  /* background-color: rgb(117, 72, 72); */
+  height:270rpx;
 }
-.product-part1{
-  display: flex;
+.part5-img {
+  width: 100%;
+  height: 572rpx;
 }
-.product-part2{
-  display: flex;
-  background-color: rgb(248, 248, 248);
-  justify-content: space-between
-}
-.product-part1-img{
-  width: 253rpx;
-  height: 283rpx;
+.part6-img{
+  width: 100%;
+  height: 685rpx;
+  position: absolute;
+  top: 0;
+  left: 0;
 
 }
-.product-part1-box{
-  padding-left: 122rpx;
+.part7-img {
+  width: 100%;
+  height: 500rpx;
+}
+.part8-img{
+  width: 100%;
+  height: 508rpx;
+  display: block;
+}
+.part9-img{
+  width: 100%;
+  height: 590rpx;
+  position: absolute;
+  top: 0;
+  left: 0
+}
+.part1-font-box {
+  padding-left: 30rpx;
+  padding-bottom: 20rpx;
+}
+.part1-font-box{
   padding-top: 60rpx;
 }
-.product-part1-title{
-  font-size: 30rpx;
-  color: #000;
+.part1-title {
+  font-size: 48rpx;
   display: block;
-  margin-bottom: 28rpx
+  
 }
-.product-part1-text{
-   font-size: 18rpx;
-  color: #000;
-  display: block
+.part3-title {
+  font-size: 48rpx;
+  display: block;
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  color: #fff;
+
+
 }
-.product-part2-box{
-  padding-left: 86rpx;
-  padding-top: 100rpx;
+
+.part1-text {
+  font-size: 30rpx;
+  display: block;
+  margin-top: 28rpx;
+  line-height: 48rpx;
+
 }
-.product-part2-img{
-  width: 320rpx;
-  height: 326rpx;
+.part1-text1 {
+  font-size: 30rpx;
+  display: block;
+  margin-top: 28rpx;
+  line-height: 48rpx;
+  text-align: center
 }
-.product-part3-img{
-  width: 268rpx;
-  height: 342rpx;
+
+.part2-text {
+  font-size: 30rpx;
+  display: block;
+  margin-top: 40rpx;
+  margin-left: 100rpx;
+  line-height: 48rpx;
 }
-.product-part3-box{
-  padding-left: 50rpx;
-  padding-top: 90rpx;
+.part3-text {
+  font-size: 30rpx;
+  display: block;
+  margin-top: 20rpx;
+  text-align: center;
+  line-height: 48rpx;
+  position: relative;
+  z-index: 1;
+  color: #fff;
 }
-.product-part4{
-  width: 100%;
-  height: 264rpx;
-  position: relative
+.part2{
+  position: relative;
+  padding-top: 60rpx;
+  height: 710rpx;
+  box-sizing: border-box
 }
-.product-part4-img{
-  width: 100%;
-  height: 264rpx;
-  position: absolute;
-  top:0px;
-  bottom:0px;
+.part3{
+  position: relative;
+  padding-top: 60rpx;
+  height: 685rpx;
+box-sizing: border-box
+}
+.part4{
+  position: relative;
+  height: 590rpx;
+}
+.part5{
+  position: relative;
+  height: 557rpx;
 }

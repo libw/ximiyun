@@ -1,5 +1,6 @@
 {
   "pages":[
+    "pages/superQR65/index",
     "pages/index/index",
     "pages/more/more",
     "pages/logs/logs",
@@ -7,8 +8,8 @@
     "pages/ximiyun/index",
     "pages/lakala/index",
     "pages/cellphone/index",
-    "pages/superQ50/index",
-    "pages/superQR65/index",
+  
+  "pages/superQ50/index",
     "pages/smart/index"
   ],
   "window":{

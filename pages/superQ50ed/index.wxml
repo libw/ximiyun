@@ -1,0 +1,35 @@
+<swiper class='banner' style="height:445rpx;width:100%">
+  <block wx:for='{{moreBanner}}' wx:key='xxx'>
+    <swiper-item>
+      <image src='{{item.url}}' class='moreBanner' />
+    </swiper-item>
+  </block>
+</swiper>
+<view class='product-part1'>
+  <image src='../../resources/images/superQ50/superQ50Part1.png' class='product-part1-img'/>
+  <view class='product-part1-box'>
+    <text class='product-part1-title'>双屏幕+键盘 让交易一目了然</text>
+    <text class='product-part1-text'>2.4存真彩LED主屏幕+六位LED客显屏，\n让交易双方对金额一目了然</text>
+  </view>
+</view>
+<view class='product-part2'>
+  <view class='product-part2-box'>
+    <text class='product-part1-title'>全能云闪付，方便又快捷</text>
+    <text class='product-part1-text'>支持银行卡非接触金融IC卡联机支付\n机身前端挥卡区域一挥即付 小额免密又免签\n支持Apple Pay、华为Pay等NFC手机支付</text>
+  </view>
+  <image src='../../resources/images/superQ50/superQ50Part2.png' class='product-part2-img'/>
+</view>
+<view class='product-part1'>
+  <image src='../../resources/images/superQ50/superQ50Part3.png' class='product-part3-img'/>
+  <view class='product-part3-box'>
+    <text class='product-part1-title'>红外线精准试别 扫码即快有稳</text>
+    <text class='product-part1-text'>红外线扫描二维码0.1秒闪电识别\n红外线对准就能扫成功，快又稳</text>
+  </view>
+</view>
+<view class='product-part2'>
+  <view class='product-part2-box'>
+    <text class='product-part1-title'>超大容量电池 超长5天待机</text>
+    <text class='product-part1-text'>3.7V可充电锂电池，2600mAh,最长待机时间\n可达5天，满电状态下支持云闪付和扫码交易\n≥300笔</text>
+  </view>
+  <image src='../../resources/images/superQ50/superQ50Part4.png' class='product-part4-img'/>
+</view>

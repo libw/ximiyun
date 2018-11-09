@@ -1,32 +1,60 @@
-<swiper class='banner' style="height:445rpx;width:100%">
-  <block wx:for='{{moreBanner}}' wx:key='xxx'>
-    <swiper-item>
-      <image src='{{item.url}}' class='moreBanner' />
-    </swiper-item>
-  </block>
-</swiper>
-<view class='product-part1'>
-  <image src='../../resources/images/superQR65/superQR65Product1.png' class='product-part1-img'/>
-  <view class='product-part1-box'>
-    <text class='product-part1-title'>POS型外观设计</text>
-    <text class='product-part1-text'>不仅符合商户收款\n惯，更符合顾客付款认知</text>
+<view class='part1'>
+  <image src='../../resources/images/superQR65/part1.png' class='part1-img' />
+  <view class='part1-font-box' >
+    <text class='part1-title' style='  text-align: center'>POS型外观设计</text>
+    <text class='part1-text' style='  text-align: center'>不仅符合商户收款习惯，更符合顾客付款\n认知</text>
   </view>
 </view>
-<view class='product-part2'>
+<view class='part5'>
+  <image src='../../resources/images/superQR65/part2.png' class='part2-img' />
+</view>
+<view class='part1'>
+  <image src='../../resources/images/superQR65/part3.png' class='part3-img' />
+  <view class='part1-font-box' style='background-color: rgb(248, 248, 248);'>
+    <text class='part1-title'>全能云闪付</text>
+    <text class='part1-text'>支银行非接触金融IC卡联机支付\n非链接读卡区域一挥即付，小额免密又免签\n支持Apple Pay、华为Pay、小米Pay等手机NFC支付</text>
+  </view>
+</view>
+<view class='part1'>
+  <image src='../../resources/images/superQR65/part4.png' class='part4-img' />
+  <view class='part1-font-box'>
+    <text class='part1-title'>全能扫码\n一台机子全搞定</text>
+    <text class='part1-text'>微信、支付宝银联钱包等付款\n二维码全部能受理\n更多账户方二维码即将陆续支持</text>
+  </view>
+</view>
+<view >
+  <image src='../../resources/images/superQR65/part5.png' class='part5-img' />
+</view>
+
+<view class='part2'>
   
-  <view class='product-part2-box'>
-    <text class='product-part1-title'>采用人体工学设计</text>
-    <text class='product-part1-text'>机身轮廓完美贴合手\n部，频繁操作无酸胀感</text>
-  </view>
-  <image src='../../resources/images/superQR65/superQR65Product2.png' class='product-part2-img'/>
+  <image src='../../resources/images/superQR65/part6.png' class='part6-img' />
+  <text class='part3-title'>权威认证确保金融安全</text>
+  <text class='part3-text'>通过银联扫码功能测试、QPBOCL1&L2等五项权\n威认证。五重保障，严守金融数据安全底线</text>
 </view>
-<view class='product-part1'>
-  <image src='../../resources/images/superQR65/superQR65Product3.png' class='product-part3-img'/>
-  <view class='product-part3-box'>
-    <text class='product-part1-title'>全能扫码，一台机子全搞定</text>
-    <text class='product-part1-text'>微信、支付宝、银联钱包等付款\n二维码全能受理\n更多账户二维码即将陆续支持</text>
+<view class='part1' >
+  <view class='part1-font-box'>
+    <text class='part1-title' >语音播报 再忙不怕漏单</text>
+    <text class='part1-text'>自动化声控系统，试试播报每一笔交易\n最高80分贝扬声器，成功交易不漏单\n可选配蜂鸣器，客付款成功后发出“哔\n哔”的提示音</text>
+  </view>
+
+  <image src='../../resources/images/superQR65/part7.png' class='part7-img' />
+</view>
+<view class='part1' >
+  <view class='part1-font-box'style='background-color: rgb(248, 248, 248)'>
+    <text class='part1-title'  style='  text-align: center'>查账对账“一手掌握”</text>
+    <text class='part1-text'  style='  text-align: center'>商户通APP、拉卡拉微商服务公众号、网址三大\n渠道为您提供查账、对账等基础服务和 理财\n钱包等服务</text>
+  </view>
+
+  <image src='../../resources/images/superQR65/part8.png' class='part8-img' />
+</view>
+<view class='part1' >
+  <view class='part1-font-box' style='background-color: rgb(0, 158, 231);color:#fff'>
+    <text class='part1-title' >五项权威\n确保金融数据安全</text>
+    <text class='part1-text'>五重安全保障，验收金融数据底线</text>
   </view>
 </view>
-<view class='product-part4'>
-  <image src='../../resources/images/superQR65/superQR65Product4.png' class='product-part4-img'/>
+
+<view class='part4'>
+  <image src='../../resources/images/superQR65/part9.png' class='part9-img' />
 </view>
