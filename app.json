@@ -1,22 +1,22 @@
 {
-  "pages":[
-    "pages/superQR65/index",
+  "pages": [
+   "pages/cellphone/index",
     "pages/index/index",
     "pages/more/more",
     "pages/logs/logs",
     "pages/about/about",
     "pages/ximiyun/index",
     "pages/lakala/index",
-    "pages/cellphone/index",
-  
-  "pages/superQ50/index",
-    "pages/smart/index"
+    
+    "pages/superQR65/index",
+    "pages/smart/index",
+    "pages/superQ50/index"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle": "black"
   },
   "tabBar": {
     "color": "#9b9b9b",
@@ -37,11 +37,10 @@
         "selectedIconPath": "resources/images/moreA.png"
       },
       {
-        "text":"关于我们",
+        "text": "关于我们",
         "pagePath": "pages/about/about",
         "iconPath": "resources/images/about.png",
         "selectedIconPath": "resources/images/aboutA.png"
-
       }
     ]
   }

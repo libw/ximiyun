@@ -1,0 +1,110 @@
+.banner {
+  display: block;
+  height:528rpx;
+  width:100%;
+  position: relative;
+  padding-top: 132rpx;
+  box-sizing: border-box;
+}
+.logo{
+  display: block;
+  position: absolute;
+  width: 178rpx;
+  height: 66rpx;
+  top: 0;
+  left: 0;
+}
+.lakala-title{
+  font-size: 48rpx;
+  color: #000;
+  margin-bottom: 17rpx;
+  text-align: center;
+  display: block;
+}
+.lakala-text{
+  font-size: 24rpx;
+  color: #000;
+  display: block;
+  text-align: center;
+  margin-bottom: 85rpx;
+}
+.lakala-header-image{
+  display: block;
+  width: 358rpx;
+  height: 148rpx;
+  margin: 0 auto;
+}
+.lakala-part1{
+  width: 100%;
+  height: 386rpx;
+  display: block;
+}
+.lakala-part1-img{
+  width: 100%;
+  height: 386rpx;
+  display: block;
+}
+.lakala-part2{
+  display: flex;
+}
+.lakala-part2-word-box{
+ box-sizing: border-box;
+  padding-top: 80rpx;
+}
+.lakala-part2-text-box{
+  padding-left: 40rpx;
+  box-sizing: border-box;
+  width: 402rpx;
+}
+.lakala-part2-font-box{
+  margin-bottom: 40rpx;
+}
+.lakala-part2-font-img{
+  display: block;
+  width: 60rpx;
+  height: 60rpx;
+  float: left;
+}
+.lakala-part2-font-box{
+  margin-left: 22rpx;
+  float: left;
+  width: 260rpx;
+}
+.lakala-part2-font-title{
+  font-size: 24rpx;
+  color: #000;
+  display: block
+}
+.lakala-part2-font-text{
+  font-size: 18rpx;
+  color: #000;
+  display: block;
+  width: 90%;
+}
+.lakala-part2-img{
+  display: block;
+  width: 342rpx;
+  height: 385rpx;
+
+}
+.lakala-part3{
+  width: 100%;
+  height: 473rpx;
+  display: block;
+}
+.lakala-part3-img{
+  width: 100%;
+  height: 473rpx;
+  display: block;
+}
+.lakala-part4{
+  width: 100%;
+  height: 425rpx;
+  display: block;
+}
+.lakala-part4-img{
+  width: 100%;
+  height: 425rpx;
+  display: block;
+}
+

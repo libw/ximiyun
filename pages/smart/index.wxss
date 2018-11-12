@@ -1,110 +1,182 @@
-.banner {
-  display: block;
-  height:528rpx;
-  width:100%;
-  position: relative;
-  padding-top: 132rpx;
+.part1{
   box-sizing: border-box;
 }
-.logo{
+.part1-img {
+  width: 100%;
+  height: 640rpx;
+}
+.part2-img {
+  width: 100%;
+  height: 495rpx;
   display: block;
+}
+.part3-img {
+  width: 100%;
+  height: 480rpx;
+  display: block;
+}
+.part4-img {
+  width: 100%;
+  height:270rpx;
+}
+.part5-img {
+  width: 100%;
+  height: 635rpx;
+}
+.part6-img{
+  width: 100%;
+  height: 422rpx;
+display: block;
+
+}
+.part7-img {
+  width: 100%;
+  height: 540rpx;
+}
+.part8-img{
+  width: 100%;
+  height: 550rpx;
+  display: block;
+}
+.part9-img{
+  width: 100%;
+  height: 590rpx;
   position: absolute;
-  width: 178rpx;
-  height: 66rpx;
   top: 0;
-  left: 0;
+  left: 0
 }
-.lakala-title{
+.part10-img{
+  width: 76rpx;
+  height: 76rpx;
+  margin-top: 37rpx;
+  margin-right: 8rpx;
+  
+}
+.part12-img{
+  width: 100%;
+  height: 482rpx;
+  position: absolute;
+  top: 0;
+  left: 0
+}
+.part1-font-box {
+  padding-left: 30rpx;
+  padding-bottom: 20rpx;
+}
+.part1-font-box{
+  padding-top: 60rpx;
+}
+.part1-title {
   font-size: 48rpx;
-  color: #000;
-  margin-bottom: 17rpx;
+  display: block;
+  
+}
+.part3-title {
+  font-size: 48rpx;
+  display: block;
+  position: relative;
+  z-index: 1;
   text-align: center;
-  display: block;
 }
-.lakala-text{
-  font-size: 24rpx;
+
+.part1-text {
+  font-size: 30rpx;
+  display: block;
+  margin-top: 28rpx;
+  line-height: 48rpx;
+
+}
+.part1-text1 {
+  font-size: 30rpx;
+  display: block;
+  margin-top: 28rpx;
+  line-height: 48rpx;
+  text-align: center
+}
+
+.part2-text {
+  font-size: 30rpx;
+  display: block;
+  margin-top: 40rpx;
+  margin-left: 100rpx;
+  line-height: 48rpx;
   color: #000;
+}
+.part3-text {
+  font-size: 30rpx;
   display: block;
+  margin-top: 20rpx;
   text-align: center;
-  margin-bottom: 85rpx;
+  line-height: 48rpx;
+  position: relative;
+  z-index: 1;
 }
-.lakala-header-image{
-  display: block;
-  width: 358rpx;
-  height: 148rpx;
-  margin: 0 auto;
+.part2{
+  position: relative;
+  
+
+  box-sizing: border-box
 }
-.lakala-part1{
+.part3{
+  position: relative;
+  padding-top: 60rpx;
+  height: 685rpx;
+box-sizing: border-box
+}
+.part4{
+  position: relative;
+  height: 498rpx;
+}
+.part5{
+  position: relative;
+  /* height: 757rpx; */
   width: 100%;
-  height: 386rpx;
-  display: block;
 }
-.lakala-part1-img{
-  width: 100%;
-  height: 386rpx;
+.part5::after{
+   content: ".";
   display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
 }
-.lakala-part2{
+.part5-box{
   display: flex;
+  background-color: rgb(245, 245, 245)
 }
-.lakala-part2-word-box{
- box-sizing: border-box;
-  padding-top: 80rpx;
-}
-.lakala-part2-text-box{
+.part5-box1{
+  /* width: 50%; */
+  display: flex;
   padding-left: 40rpx;
-  box-sizing: border-box;
-  width: 402rpx;
+  padding-top: 45rpx;
+  padding-bottom: 60rpx;
 }
-.lakala-part2-font-box{
-  margin-bottom: 40rpx;
+.part5-box-img{
+  width: 66rpx;
+  height: 66rpx;
+  margin-right: 22rpx;
+
 }
-.lakala-part2-font-img{
-  display: block;
-  width: 60rpx;
-  height: 60rpx;
-  float: left;
-}
-.lakala-part2-font-box{
-  margin-left: 22rpx;
-  float: left;
-  width: 260rpx;
-}
-.lakala-part2-font-title{
+.part5-title{
   font-size: 24rpx;
-  color: #000;
-  display: block
+  display: block;
+  margin-bottom: 10rpx;
 }
-.lakala-part2-font-text{
+.part5-text{
   font-size: 18rpx;
-  color: #000;
   display: block;
-  width: 90%;
+  line-height: 28rpx;
 }
-.lakala-part2-img{
+.part1-box1{
+  padding-left: 30rpx;
+  padding-top: 50rpx;
+  padding-bottom: 40rpx;
+}
+.part1-box{
+  display: flex
+}
+.part6-text{
+  font-size: 30rpx;
+  line-height: 45rpx;
   display: block;
-  width: 342rpx;
-  height: 385rpx;
-
+  text-align: center;
 }
-.lakala-part3{
-  width: 100%;
-  height: 473rpx;
-  display: block;
-}
-.lakala-part3-img{
-  width: 100%;
-  height: 473rpx;
-  display: block;
-}
-.lakala-part4{
-  width: 100%;
-  height: 425rpx;
-  display: block;
-}
-.lakala-part4-img{
-  width: 100%;
-  height: 425rpx;
-  display: block;
-}
-

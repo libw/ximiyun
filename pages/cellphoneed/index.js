@@ -5,7 +5,7 @@ Page({
    */
   data: {
     moreBanner: [{
-      'url': '../../resources/images/superQR65/superQR65Banner.png'
+      'url': '../../resources/images/cellphone/cellphoneBanner.png'
     }],
     
   },
