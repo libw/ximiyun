@@ -1,49 +1,49 @@
 <view class='part1'>
-  <image src='../../resources/images/superQ50/part1Img.png' class='part1-img' />
+  <image src='http://i2.bvimg.com/668433/e7a076535f4dff75.png' class='part1-img' />
   <view class='part1-font-box'>
     <text class='part1-title'>双屏幕+键盘 让交易一目了然</text>
     <text class='part1-text'>2.4寸真彩LED主屏幕+六位客显屏，\n让交易双方对金额一目了然</text>
   </view>
 </view>
 <view class='part1'>
-  <image src='../../resources/images/superQ50/part2Img.png' class='part2-img' />
+  <image src='http://i2.bvimg.com/668433/c2473f2f63d71700.png' class='part2-img' />
   <view class='part1-font-box' style='background-color: rgb(248, 248, 248)'>
     <text class='part1-title'>全能云闪付，方便又可快捷</text>
     <text class='part1-text'>支持一银行卡非接触金融IC卡联机支付\n机身前端挥卡区域一挥即付 小额免密又免签\n支持Apple Pay，华为Pay等NFC手机支付</text>
   </view>
 </view>
 <view class='part1'>
-  <image src='../../resources/images/superQ50/part3Img.png' class='part3-img' />
+  <image src='http://i2.bvimg.com/668433/48a207f218c20aae.png' class='part3-img' />
   <view class='part1-font-box'>
     <text class='part1-title'>红外线精准识别 扫码既快又稳</text>
     <text class='part2-text'>红外线扫描二维码0.1秒闪电识别\n红外线对准就能扫成功，快又稳</text>
   </view>
 </view>
 <view class='part1'>
-  <image src='../../resources/images/superQ50/part4Img.png' class='part4-img' />
+  <image src='http://i2.bvimg.com/668433/ccdbf6641f28e9e1.png' class='part4-img' />
   <view class='part1-font-box'>
     <text class='part1-title'>超大容量电池 超长5天待机</text>
     <text class='part1-text'>3.7V可充电锂电池，2600mAh,最长待机时间\n可达五天，满电\状态下支持云闪付和扫码交易\n≥300笔</text>
   </view>
 </view>
 <view style='position: relative'>
-  <image src='../../resources/images/superQ50/part5Img.png' class='part5-img' />
+  <image src='http://i2.bvimg.com/668433/c39d120338f252b9.png' class='part5-img' />
 </view>
 
 <view class='part2'>
   <text class='part3-title'>蜂鸣音提示交易 再忙也不怕漏单</text>
   <text class='part3-text'>顾客付款交易成功后，收款宝发出“哔哔”音提示\n交易成功，确保您款不漏收</text>
-  <image src='../../resources/images/superQ50/part6Img.png' class='part6-img' />
+  <image src='http://i2.bvimg.com/668433/a90f978d4a73cba1.png' class='part6-img' />
 </view>
 <view class='part1' >
   <view class='part1-font-box'>
     <text class='part1-title' >两大版本满足你的日常所需</text>
     <text class='part1-text'>扫码+非接版\n扫码+非接大额版</text>
   </view>
-  <image src='../../resources/images/superQ50/part7Img.png' class='part7-img' />
+  <image src='http://i2.bvimg.com/668433/61126a4b82cda457.png' class='part7-img' />
 </view>
 <view class='part3'>
   <text class='part3-title'>能主扫 能被扫 随心切换真简单</text>
   <text class='part3-text'>即能扫客户手机屏幕二维码，又能让客户扫\n你屏幕二维码主被扫自由切换，\n想怎么扫，就怎么扫</text>
-  <image src='../../resources/images/superQ50/part8Img.png' class='part8-img' />
+  <image src='http://i2.bvimg.com/668433/07ee81c913bea1be.png' class='part8-img' />
 </view>

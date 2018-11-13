@@ -1,69 +1,67 @@
 <view class='part1'>
-  <image src='../../resources/images/cellphone/part1.png' class='part1-img' />
-  <view class='part1-font-box' >
+  <image src='http://i1.bvimg.com/668433/1567f68373a2ba4f.png' class='part1-img' />
+  <view class='part1-font-box'>
     <text class='part1-title' style='  text-align: center'>移动收款 有卡即付</text>
-    <image src='../../resources/images/cellphone/part2.png' class='part1-title-img'/>
+    <image src='http://i1.bvimg.com/668433/e9a0f834febcb818.png' class='part1-title-img' />
   </view>
 </view>
 <view class='part5'>
-  <image src='../../resources/images/cellphone/part3.png' class='part2-img' />
+  <image src='http://i1.bvimg.com/668433/bb25c43bf6a44c19.png' class='part2-img' />
   <view class='part2-box'>
-    <image src='../../resources/images/cellphone/part4.png' class='part2-box-img'/>
+    <image src='http://i1.bvimg.com/668433/992c4d25eb22fc06.png' class='part2-box-img' />
     <text class='part2-box-text'>支持带银联标识的借记卡，贷记卡</text>
   </view>
   <view class='part2-box'>
-    <image src='../../resources/images/cellphone/part5.png' class='part2-box-img'/>
+    <image src='http://i1.bvimg.com/668433/c5512d2e0c86ac9b.png' class='part2-box-img' />
     <text class='part2-box-text'>收款账户自主设定，支持个人储蓄账户</text>
   </view>
 </view>
 
 <view class='part1'>
-<view style='position: relative'>
-<image src='../../resources/images/cellphone/part6.png' class='part3-img' />
-  <text class='part1-font1'>交易明细一目了然</text>
-  <text class='part1-font2'>交易明细实时查询\n随时对账</text>
-  <text class='part1-font3'>周末节假日都结算，\n365天每天到账</text>
-</view>
-  
+  <view style='position: relative'>
+    <image src='http://i1.bvimg.com/668433/59b1573de9f87fc7.png' class='part3-img' />
+    <text class='part1-font1'>交易明细一目了然</text>
+    <text class='part1-font2'>交易明细实时查询\n随时对账</text>
+    <text class='part1-font3'>周末节假日都结算，\n365天每天到账</text>
+  </view>
+
   <view class='part1-font-box'>
     <text class='part1-title'>费率标准透明 借贷同意规格</text>
     <text class='part1-text'>自然日结算次日到账；借记0.5%，20\n元封顶；贷记卡0.68%，无封顶，如需\n交易当天到账，则每笔提款仅收3元手\n续费。</text>
   </view>
 </view>
 <view class='part1'>
-  <image src='../../resources/images/cellphone/part7.png' class='part4-img' />
+  <image src='http://i1.bvimg.com/668433/c5135cb26742478a.png' class='part4-img' />
   <view class='part1-font-box' style='text-align:center;padding-left: 0'>
     <text class='part1-title'>拉卡拉品牌实力强大</text>
     <text class='part1-text'>获得央视颁发的《支付业务许可证》企业之一，中国\n智能支付硬件运营商收单市场交易份额排名第三。</text>
   </view>
 </view>
 
-<view >
-  <image src='../../resources/images/cellphone/part8.png' class='part5-img' />
+<view>
+  <image src='http://i1.bvimg.com/668433/69f21ddf87acc128.png' class='part5-img' />
 </view>
 <view style='background-color: rgb(241, 241, 241);padding-top:40rpx'></view>
-<view >
-  <image src='../../resources/images/cellphone/part9.png' class='part6-img' />
+<view>
+  <image src='http://i1.bvimg.com/668433/77cf269868c148c2.png' class='part6-img' />
 </view>
 
-<view class='part1' >
+<view class='part1'>
   <view class='part1-font-box'>
-    <text class='part1-title' >理财信贷 增值服务\n我们可以为您做的更多</text>
+    <text class='part1-title'>理财信贷 增值服务\n我们可以为您做的更多</text>
     <text class='part1-text'>信用卡还款，跨服异地转账汇款，\n零手续费余额查询，手机充值理财\n产品多样化，结算余额可每日定投\n随用随取</text>
   </view>
 
-  <image src='../../resources/images/cellphone/part10.png' class='part7-img' />
+  <image src='http://i1.bvimg.com/668433/f665fd21c475e8c9.png' class='part7-img' />
 </view>
 <view class='part4'>
-  <image src='../../resources/images/cellphone/part11.png' class='part9-img' />
+  <image src='http://i1.bvimg.com/668433/94fafcafdc794ec0.png' class='part9-img' />
 </view>
-<view class='part1' >
+<view class='part1'>
   <view class='part1-font-box'>
-    <text class='part1-title'  style='  text-align: center'>1000万小微商户的全新选择</text>
-    <text class='part1-text'  style='  text-align: center'>不能挥卡得到POS必将退出市场</text>
+    <text class='part1-title' style='  text-align: center'>1000万小微商户的全新选择</text>
+    <text class='part1-text' style='  text-align: center'>不能挥卡得到POS必将退出市场</text>
   </view>
 
-  <image src='../../resources/images/cellphone/part12.png' class='part8-img' />
+  <image src='http://i1.bvimg.com/668433/209ee20aa9ae52f1.png' class='part8-img' />
 </view>
-
-

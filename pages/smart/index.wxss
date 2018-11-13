@@ -125,7 +125,7 @@ box-sizing: border-box
 }
 .part4{
   position: relative;
-  height: 498rpx;
+  height: 482rpx;
 }
 .part5{
   position: relative;

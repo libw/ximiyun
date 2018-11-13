@@ -1,21 +1,21 @@
 <view class='part1'>
-  <image src='../../resources/images/smart/part1.png' class='part1-img' />
+  <image src='http://i1.bvimg.com/668433/9e9056374ece5f95.png' class='part1-img' />
   <view class='part1-font-box' style='  background-color: rgb(238, 238, 238);padding-bottom:40rpx;'>
     <text class='part1-title' style='  text-align: center'>独具慧“颜”岂止大开眼界</text>
   </view>
 </view>
 <view class='part5'>
-  <image src='../../resources/images/smart/part2.png' class='part2-img' />
+  <image src='http://i1.bvimg.com/668433/a4daea796e407622.png' class='part2-img' />
   <view class='part5-box'>
     <view class='part5-box1'>
-      <image src='../../resources/images/smart/part3.png' class='part5-box-img' />
+      <image src='http://i1.bvimg.com/668433/5c2235ce5d169053.png' class='part5-box-img' />
       <view class='part5-font-box'>
         <text class='part5-title'>多种网络模式任你选</text>
         <text class='part5-text'>WIFI：WIFI+4G\n2G/3G/4G网络通用。</text>
       </view>
     </view>
     <view class='part5-box1'>
-      <image src='../../resources/images/smart/part4.png' class='part5-box-img' />
+      <image src='http://i1.bvimg.com/668433/978bece753ace469.png' class='part5-box-img' />
       <view class='part5-font-box'>
         <text class='part5-title'>强劲续航电池无忧</text>
         <text class='part5-text'>随用随充，强劲续航，\n营业一周电量无忧。</text>
@@ -27,25 +27,25 @@
 <view class='part1-box1'>
 <text class='part1-title'>超大屏幕让你触发晶彩</text>
   <view class='part1-box'>
-    <image src='../../resources/images/smart/part6.png' class='part10-img' />
+    <image src='http://i1.bvimg.com/668433/565a7e5e08ed076b.png' class='part10-img' />
     <text class='part1-text'>5英寸IPS液晶显示器，一切\n如你所见。</text>
   </view>
 </view>
   
-  <image src='../../resources/images/smart/part5.png' class='part3-img' />
+  <image src='http://i1.bvimg.com/668433/dc41138852b666ee.png' class='part3-img' />
   <view class='part1-font-box' style='text-align: center;padding-bottom:80rpx;'>
     <text class='part1-title'>主流扫码支付，快速一扫即收</text>
     <text class='part1-text'>支持支付宝、微信等主流平台的二维码\n支付，快速收款</text>
   </view>
 </view>
 <view class='part1'>
-  <image src='../../resources/images/smart/part7.png' class='part4-img' />
+  <image src='http://i1.bvimg.com/668433/461c019cabfaedeb.png' class='part4-img' />
   <view class='part1-font-box'>
     <text class='part1-title'>一挥一闪一触\nNFC极速收款</text>
   </view>
 </view>
 <view style='padding-bottom:80rpx;'>
-  <image src='../../resources/images/smart/part8.png' class='part5-img' />
+  <image src='http://i1.bvimg.com/668433/eb3499e0b72def11.png' class='part5-img' />
   <text class='part6-text'>内嵌非接模块，加密读取安全付。支持银联\nQuickPass挥卡付、银联NFC云闪付、Apple\nPay、手环等各类电子支付，小额免密，\n无需找零，0.3秒极速结账</text>
 </view>
 
@@ -54,7 +54,7 @@
 <text class='part3-title'>“惠”玩会员，惠聚客源</text>
   <text class='part3-text'>自带会员系统，融合吸粉与发券\n打通会员与“核销”，兼顾收银与对账</text>
 </view>
-  <image src='../../resources/images/smart/part9.png' class='part6-img' />
+  <image src='http://i1.bvimg.com/668433/c042d42f8d6de0a4.png' class='part6-img' />
   
 </view>
 <view class='part1'>
@@ -63,16 +63,16 @@
     <text class='part1-text'>多重安全认证，\n严防金融信息泄漏</text>
   </view>
 
-  <image src='../../resources/images/smart/part10.png' class='part7-img' />
+  <image src='http://i1.bvimg.com/668433/5b038b05bba7b151.png' class='part7-img' />
 </view>
 <view class='part1'>
-  <view class='part1-font-box' style='background-color: rgb(248, 248, 248)'>
+  <view class='part1-font-box' style='background-color: rgb(239, 239, 239)'>
     <text class='part1-title' style='  text-align: center'>会员分级管理。一键轻松操作</text>
     <text class='part1-text' style='  text-align: center'>自定义分组，不同会员又不同的待遇</text>
   </view>
 
-  <image src='../../resources/images/smart/part11.png' class='part8-img' />
+  <image src='http://i1.bvimg.com/668433/0179e213e97ac8ac.png' class='part8-img' />
 </view>
 <view class='part4'>
-  <image src='../../resources/images/smart/part12.png' class='part12-img' />
+  <image src='http://i1.bvimg.com/668433/9471c7d0069ab571.png' class='part12-img' />
 </view>
