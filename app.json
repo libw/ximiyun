@@ -7,10 +7,12 @@
     "pages/about/about",
     "pages/ximiyun/index",
     "pages/lakala/index",
-    "pages/cellphone/index",
     "pages/superQR65/index",
     "pages/smart/index",
+    "pages/cellphone/index",
+    
     "pages/superQ50/index"
+    
   ],
   "window": {
     "backgroundTextStyle": "light",

@@ -64,7 +64,7 @@ Page({
    */
   onShareAppMessage: function() {
     return {
-      title: '自定义转发标题',
+      title: '小企业的推进器，大店铺的引流渠',
       path: '/pages/index/index'
     }
   },

@@ -16,6 +16,9 @@
 .part4-img {
   width: 100%;
   height: 600rpx;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 .part5-img {
   width: 100%;

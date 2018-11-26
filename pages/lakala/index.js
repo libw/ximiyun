@@ -152,7 +152,10 @@ Page({
    * 用户点击右上角分享
    */
   onShareAppMessage: function() {
-
+    return {
+      title: '小企业的推进器，大店铺的引流渠',
+      path: '/pages/index/index'
+    }
   },
   //点击跳转 
   navTo: function(e) {

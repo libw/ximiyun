@@ -1,34 +1,35 @@
+<view  style='background:#fff'>
 <view class='part1'>
-  <image src='http://i2.bvimg.com/668433/54f029a446db36ae.png' class='part1-img' />
+  <image src='https://ximicloud.oss-cn-beijing.aliyuncs.com/images/QR65-1.png?Expires=1543227068&OSSAccessKeyId=TMP.AQH5aD8wSC86F9bH3nio3DphTag_5mglJD1hcqzP9umGlB8SAzxfMvgbMlLUADAtAhRK2cMLUUaENLGea1Xw9s1oSnnj8gIVAK0-bTNpErzmOjwAsJgrrNPviGmc&Signature=Q2nD5pHtPuEPxr%2FFaT48kzcYvjU%3D' class='part1-img' />
   <view class='part1-font-box' >
     <text class='part1-title' style='  text-align: center'>POS型外观设计</text>
     <text class='part1-text' style='  text-align: center'>不仅符合商户收款习惯，更符合顾客付款\n认知</text>
   </view>
 </view>
 <view class='part5'>
-  <image src='http://i2.bvimg.com/668433/02824a96c1568a25.png' class='part2-img' />
+  <image src='https://ximicloud.oss-cn-beijing.aliyuncs.com/images/QR65-2.png?Expires=1543227135&OSSAccessKeyId=TMP.AQH5aD8wSC86F9bH3nio3DphTag_5mglJD1hcqzP9umGlB8SAzxfMvgbMlLUADAtAhRK2cMLUUaENLGea1Xw9s1oSnnj8gIVAK0-bTNpErzmOjwAsJgrrNPviGmc&Signature=vIZiNt0avZJjEJxLYMafZ4cdNBI%3D' class='part2-img' />
 </view>
 <view class='part1'>
-  <image src='http://i2.bvimg.com/668433/6200a224f7907da9.png' class='part3-img' />
+  <image src='https://ximicloud.oss-cn-beijing.aliyuncs.com/images/QR65-3.png?Expires=1543227146&OSSAccessKeyId=TMP.AQH5aD8wSC86F9bH3nio3DphTag_5mglJD1hcqzP9umGlB8SAzxfMvgbMlLUADAtAhRK2cMLUUaENLGea1Xw9s1oSnnj8gIVAK0-bTNpErzmOjwAsJgrrNPviGmc&Signature=pPegOXDnBpJAIw4dMP6DB7VLu4U%3D' class='part3-img' />
   <view class='part1-font-box' style='background-color: rgb(248, 248, 248);'>
     <text class='part1-title'>全能云闪付</text>
     <text class='part1-text'>支银行非接触金融IC卡联机支付\n非链接读卡区域一挥即付，小额免密又免签\n支持Apple Pay、华为Pay、小米Pay等手机NFC支付</text>
   </view>
 </view>
 <view class='part1'>
-  <image src='http://i2.bvimg.com/668433/fe6aca74bc3736c6.png' class='part4-img' />
+  <image src='https://ximicloud.oss-cn-beijing.aliyuncs.com/images/QR65-4.png?Expires=1543227170&OSSAccessKeyId=TMP.AQH5aD8wSC86F9bH3nio3DphTag_5mglJD1hcqzP9umGlB8SAzxfMvgbMlLUADAtAhRK2cMLUUaENLGea1Xw9s1oSnnj8gIVAK0-bTNpErzmOjwAsJgrrNPviGmc&Signature=pw9Dleb39fiZlAH2%2BmxB3WLon44%3D' class='part4-img' />
   <view class='part1-font-box'>
     <text class='part1-title'>全能扫码\n一台机子全搞定</text>
     <text class='part1-text'>微信、支付宝银联钱包等付款\n二维码全部能受理\n更多账户方二维码即将陆续支持</text>
   </view>
 </view>
 <view >
-  <image src='http://i2.bvimg.com/668433/4d32c82893546c21.png' class='part5-img' />
+  <image src='https://ximicloud.oss-cn-beijing.aliyuncs.com/images/QR65-5.png?Expires=1543227193&OSSAccessKeyId=TMP.AQH5aD8wSC86F9bH3nio3DphTag_5mglJD1hcqzP9umGlB8SAzxfMvgbMlLUADAtAhRK2cMLUUaENLGea1Xw9s1oSnnj8gIVAK0-bTNpErzmOjwAsJgrrNPviGmc&Signature=H7mKl4XOTZ2SMaXB5IBv3KGz4HM%3D' class='part5-img' />
 </view>
 
 <view class='part2'>
   
-  <image src='http://i2.bvimg.com/668433/db7981edd0b72797.png' class='part6-img' />
+  <image src='https://ximicloud.oss-cn-beijing.aliyuncs.com/images/QR65-6.png?Expires=1543227212&OSSAccessKeyId=TMP.AQH5aD8wSC86F9bH3nio3DphTag_5mglJD1hcqzP9umGlB8SAzxfMvgbMlLUADAtAhRK2cMLUUaENLGea1Xw9s1oSnnj8gIVAK0-bTNpErzmOjwAsJgrrNPviGmc&Signature=jih0gfhj%2BYUrslrJYoI0BLQlCP8%3D' class='part6-img' />
   <text class='part3-title'>权威认证确保金融安全</text>
   <text class='part3-text'>通过银联扫码功能测试、QPBOCL1&L2等五项权\n威认证。五重保障，严守金融数据安全底线</text>
 </view>
@@ -38,7 +39,7 @@
     <text class='part1-text'>自动化声控系统，试试播报每一笔交易\n最高80分贝扬声器，成功交易不漏单\n可选配蜂鸣器，客付款成功后发出“哔\n哔”的提示音</text>
   </view>
 
-  <image src='http://i2.bvimg.com/668433/4281fabc5cc2be12.png' class='part7-img' />
+  <image src='https://ximicloud.oss-cn-beijing.aliyuncs.com/images/QR65-7.png?Expires=1543227236&OSSAccessKeyId=TMP.AQH5aD8wSC86F9bH3nio3DphTag_5mglJD1hcqzP9umGlB8SAzxfMvgbMlLUADAtAhRK2cMLUUaENLGea1Xw9s1oSnnj8gIVAK0-bTNpErzmOjwAsJgrrNPviGmc&Signature=4l0gUK0jEusvQPq96JnpMK6beEU%3D' class='part7-img' />
 </view>
 <view class='part1' >
   <view class='part1-font-box'style='background-color: rgb(248, 248, 248)'>
@@ -46,7 +47,7 @@
     <text class='part1-text'  style='  text-align: center'>商户通APP、拉卡拉微商服务公众号、网址三大\n渠道为您提供查账、对账等基础服务和 理财\n钱包等服务</text>
   </view>
 
-  <image src='http://i2.bvimg.com/668433/2f63f899c5675d56.png' class='part8-img' />
+  <image src='https://ximicloud.oss-cn-beijing.aliyuncs.com/images/QR65-8.png?Expires=1543227247&OSSAccessKeyId=TMP.AQH5aD8wSC86F9bH3nio3DphTag_5mglJD1hcqzP9umGlB8SAzxfMvgbMlLUADAtAhRK2cMLUUaENLGea1Xw9s1oSnnj8gIVAK0-bTNpErzmOjwAsJgrrNPviGmc&Signature=w%2BpCdlOxUCm8WtChVzBvWSzm%2Fzw%3D' class='part8-img' />
 </view>
 
 
@@ -55,5 +56,6 @@
     <text class='part1-title' >五项权威\n确保金融数据安全</text>
     <text class='part1-text'>五重安全保障，验收金融数据底线</text>
   </view>
-  <image src='http://i2.bvimg.com/668433/00d6585d26b5acb7.png' class='part9-img' />
+  <image src='https://ximicloud.oss-cn-beijing.aliyuncs.com/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181126163028.png?Expires=1543228603&OSSAccessKeyId=TMP.AQH5aD8wSC86F9bH3nio3DphTag_5mglJD1hcqzP9umGlB8SAzxfMvgbMlLUADAtAhRK2cMLUUaENLGea1Xw9s1oSnnj8gIVAK0-bTNpErzmOjwAsJgrrNPviGmc&Signature=Zu7p%2FdAVWZBapsGoALtnBozxEPw%3D' class='part9-img' />
+</view>
 </view>

@@ -1,3 +1,4 @@
+<view  style='background:#fff'>
 <swiper class='banner' style="height:400rpx;width:100%">
   <block wx:for='{{moreBanner}}' wx:key='xxx'>
     <swiper-item>
@@ -27,4 +28,5 @@
         </view>
       </view>
     </block>
+  </view>
   </view>

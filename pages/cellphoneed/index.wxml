@@ -1,3 +1,4 @@
+<view  style='background:#fff'>
 <swiper class='banner' style="height:400rpx;width:100%">
   <block wx:for='{{moreBanner}}' wx:key='xxx'>
     <swiper-item>
@@ -31,4 +32,5 @@
 </view>
 <view class='product-part4'>
   <image src='../../resources/images/cellphone/cellphonePart4.png' class='product-part4-img'/>
+</view>
 </view>

@@ -14,6 +14,7 @@
 .scheme {
   display: block;
   padding-bottom: 12rpx;
+  background-color: #fff;
 }
 
 .schemeTitle {

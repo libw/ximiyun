@@ -1,4 +1,5 @@
 <!--index.wxml-->
+<view  style='background:#fff'>
 <swiper indicator-dots="true" autoplay="true" interval="2000" duration="500" style="height:400rpx;width:100%">
   <!-- wx:for方法循环数据列表-->
   <block wx:for="{{test}}" wx:key="xxx">
@@ -54,4 +55,5 @@
 
 <view class='footer'>
 
+</view>
 </view>

@@ -5,7 +5,7 @@ Page({
    */
   data: {
     moreBanner: [{
-      'url': '../../resources/images/superQR65/superQR65Banner.png'
+      'url': 'https://ximicloud.oss-cn-beijing.aliyuncs.com/images/QR65-1.png?Expires=1543227068&OSSAccessKeyId=TMP.AQH5aD8wSC86F9bH3nio3DphTag_5mglJD1hcqzP9umGlB8SAzxfMvgbMlLUADAtAhRK2cMLUUaENLGea1Xw9s1oSnnj8gIVAK0-bTNpErzmOjwAsJgrrNPviGmc&Signature=Q2nD5pHtPuEPxr%2FFaT48kzcYvjU%3D'
     }],
     
   },

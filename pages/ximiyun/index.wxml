@@ -1,3 +1,4 @@
+<view  style='background:#fff'>
 <swiper class='banner' style="height:390rpx;width:100%">
   <block wx:for='{{moreBanner}}' wx:key='xxx'>
     <swiper-item>
@@ -5,7 +6,7 @@
     </swiper-item>
   </block>
 </swiper>
-<view class='advantage'>
+<view class='advantage' style='background:#fff'>
   <view class='moreAdvantageHeader'>
     <view class='line'></view>
     <text class='moreAdvantageHeaderT'>西米云</text>
@@ -29,4 +30,5 @@
     <text class='tenetTitle'>西米云宗旨</text>
     <text class='tenetText'>西米云专为商家提供小程序一站式解决方案帮助商家拥有属于自己的小程序店铺从一站式服务省时省心助力各行商家实现营收翻倍。</text>
   </view>
+</view>
 </view>

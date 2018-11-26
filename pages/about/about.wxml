@@ -1,3 +1,4 @@
+<view  style='background:#fff'>
 <swiper class='banner' style='height:400rpx;width:100%'>
   <block wx:for='{{aboutBanner}}' wx:key='xxx'>
     <swiper-item>
@@ -5,7 +6,7 @@
     </swiper-item>
   </block>
 </swiper>
-<view class='contactUs'>
+<view class='contactUs' style='background:#fff'>
   <text class='contactUsTitle'>
     联系我们
   </text>
@@ -44,4 +45,5 @@
       <image src="{{item.imgUrl}}" class='trademarkImg'/>
     </block>
   </view>
+</view>
 </view>
